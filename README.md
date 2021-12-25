@@ -1,6 +1,4 @@
-I am Parker and am learning c++
-
-add me on discord <3 Scuba#8382
+Web desgin and c++
 
 <!---
 ScubaCreator/ScubaCreator is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
