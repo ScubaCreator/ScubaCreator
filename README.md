@@ -1,4 +1,7 @@
-Web desgin and c++
+Cybersecurity wannabe enthusiast and robotics enjoyer.
+
+Ask me about pointers!
+(don't)
 
 <!---
 ScubaCreator/ScubaCreator is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
